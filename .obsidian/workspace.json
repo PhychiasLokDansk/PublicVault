@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "3f42dd92adf731db",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5d35ef28dad480c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a34e6739135231e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "文字/离泽.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a50f051c8b3faeb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "文字/离弦.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "48fac8373b95d5bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "740c4138a2f13a3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bc5db865cb7154b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af0f1a258164e25d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4a4dfa9ffc739d91",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d43482bdab321928",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a4c0877a1e10c9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b25116ac7558e506",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "文字/离弦.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "687857815bcda43e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "文字/离弦.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f0b65757c6008889",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "150976199a8ae10b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "文字/离弦.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "a50f051c8b3faeb1",
+  "lastOpenFiles": [
+    "文字/离泽.md",
+    "文字/离弦.md"
+  ]
+}
