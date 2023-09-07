@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "d43482bdab321928",
@@ -159,7 +159,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a50f051c8b3faeb1",
+  "active": "8bc5db865cb7154b",
   "lastOpenFiles": [
     "文字/离泽.md",
     "文字/离弦.md"

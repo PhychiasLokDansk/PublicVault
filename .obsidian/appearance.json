@@ -1,3 +1,6 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "baseFontSize": 28,
+  "cssTheme": "Atom",
+  "textFontFamily": "得意黑"
 }
